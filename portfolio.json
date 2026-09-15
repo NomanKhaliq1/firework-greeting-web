@@ -1,0 +1,16 @@
+{
+  "title": "Firework Greeting Page",
+  "description": "Single-page animated greeting card with a canvas firework effect.",
+  "techTags": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "source": "github",
+  "category": "Web",
+  "live_url": "",
+  "repo_name": "firework-greeting-web",
+  "repo_link": true,
+  "image": "",
+  "fetch": false
+}
